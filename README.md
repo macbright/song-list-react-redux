@@ -1,6 +1,7 @@
-# Calculator with React 
+# Song List  with React & Redux
 
-This project comes after the introduction of the React JS framework. the main aim of the project is to learn how to build a very simple React application. 
+This project comes after the introduction of the React JS framework 
+using Redux as state management. the main aim of the project is to learn how to build a very simple React & Redux application. 
 
 The project is part of a series of projects to be completed by students of [Microverse](https://www.microverse.org/ "The Global School for Remote Software Developers!").
 
@@ -56,7 +57,7 @@ The demo page can be found [HERE](https://song-list.herokuapp.com/)
 
 ## Contributing
 
-1. Fork it (https://github.com/macbright/calculator.git)
+1. Fork it (https://github.com/macbright/song-list-react-redux.git)
 2. Create your feature branch (git checkout -b feature/[choose-a-name])
 3. Commit your changes (git commit -am 'What this commit will fix/add')
 4. Push to the branch (git push origin feature/[chosen name])
@@ -66,8 +67,6 @@ The demo page can be found [HERE](https://song-list.herokuapp.com/)
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE.md) file for details
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 
